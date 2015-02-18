@@ -18,15 +18,15 @@ avatar: https://www.facebook.com/photo.php?fbid=10203969409451885&set=a.14703486
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
-  facebook: 
+  email: nettlesjj@g.cofc.edu
+  facebook: https://www.facebook.com/joye.nettles
   flickr: 
-  github: barryclark/jekyll-now
+  github: JoyeNettles
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: TR3jenai
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
